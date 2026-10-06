@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+    <link rel="stylesheet" href="2_style_bateria.css">
+
+    <title>Missão PDCE</title>
+
+
+  
+
+</head>
+
+
+<body>
+
+
+    <main class="game-card">
+
+
+        <!-- =========================
+             ÁREA DO JOGO
+        ========================= -->
+
+        <section id="jogo">
+
+            <div class="badge">
+                PDCE • 6º ANO
+            </div>
+
+
+            <div class="mascote">
+                🚀
+            </div>
+
+
+            <h1>
+                MISSÃO PDCE
+            </h1>
+
+
+            <div class="progresso">
+
+                Pergunta
+                <span id="numeroPergunta">
+                    1
+                </span>
+                de 10
+
+                <div class="barra">
+
+                    <div
+                        class="barra-progresso"
+                        id="barraProgresso">
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div
+                class="pergunta"
+                id="pergunta">
+            </div>
+
+
+            <input
+                type="text"
+                id="resposta"
+                placeholder="Digite sua resposta..."
+                autocomplete="off"
+            >
+
+
+            <button onclick="verificarResposta()">
+
+                🚀 RESPONDER
+
+            </button>
+
+
+            <div
+                class="erro"
+                id="erro">
+
+                ⚠️ Ops!
+
+                <br>
+
+                Resposta incorreta.
+
+                <br>
+
+                Pense novamente e tente outra vez!
+
+            </div>
+
+
+            <div
+                class="acerto"
+                id="acerto">
+
+                ⭐ Muito bem!
+
+            </div>
+
+        </section>
+
+
+        <!-- =========================
+             TELA FINAL
+        ========================= -->
+
+        <section
+            class="final"
+            id="final">
+
+            <div class="trofeu">
+                🏆
+            </div>
+
+
+            <div class="badge">
+                MISSÃO CONCLUÍDA
+            </div>
+
+
+            <h2>
+                PARABÉNS!
+            </h2>
+
+
+            <p>
+
+                Vocês responderam corretamente
+                às 10 perguntas!
+
+                <br><br>
+
+                A missão foi concluída.
+
+                <br><br>
+
+                🚀 O próximo desafio está na cantina da escola
+
+            </p>
+
+        </section>
+
+
+    </main>
+
+
+<script src="2_engine_bateria.js">
+
+
+
+
+</script>
+
+
+</body>
+
+</html>

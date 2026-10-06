@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Missão PDCE</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="estrelas">★　★　★</div>
+
+    <main class="game-card">
+
+        <div class="badge">
+            PDCE • 6º ANO
+        </div>
+
+        <div class="mascote">
+            🚀
+        </div>
+
+        <h1>MISSÃO PDCE</h1>
+
+        <div class="linha"></div>
+
+        <h2>🔐 NOVA PISTA</h2>
+
+        <p class="descricao">
+            Digite a resposta encontrada<br>
+            pela sua equipe.
+        </p>
+
+        <input
+            type="text"
+            id="resposta"
+            placeholder="Digite a resposta..."
+            autocomplete="off"
+        >
+
+        <button onclick="verificarResposta()">
+            🚀 DESBLOQUEAR PISTA
+        </button>
+
+        <div id="erro" class="erro">
+            <strong>⚠️ OPS!</strong>
+            <br>
+            Essa resposta não desbloqueou a pista.
+            <br>
+            Pense novamente e tente outra vez!
+        </div>
+
+        <div class="equipe">
+            ⭐ SUA EQUIPE ESTÁ NO CAMINHO CERTO! ⭐
+        </div>
+
+    </main>
+
+    <div class="estrelas baixo">★　★　★</div>
+
+
+<script>
+
+const destinos = {
+
+    "defesa": "Bateria_01/1_bateria_perguntas.html",
+    "69218":"Bateria_02/2_bateria_perguntas.html",
+    "zwyx": "Bateria_03/3_bateria_perguntas.html",
+    "secretaria": "secretaria.html",
+    "laboratorio": "laboratorio.html",
+    "sala dos professores": "professores.html"
+
+};
+
+
+function verificarResposta() {
+
+    const campo = document.getElementById("resposta");
+
+    const erro = document.getElementById("erro");
+
+    const resposta = campo.value
+        .trim()
+        .toLowerCase();
+
+
+    if (destinos[resposta]) {
+
+        window.location.href = destinos[resposta];
+
+    } else {
+
+        erro.style.display = "block";
+
+        campo.focus();
+
+        campo.select();
+
+    }
+
+}
+
+
+document.getElementById("resposta")
+.addEventListener("keydown", function(event) {
+
+    if (event.key === "Enter") {
+
+        verificarResposta();
+
+    }
+
+});
+
+</script>
+
+</body>
+</html>
