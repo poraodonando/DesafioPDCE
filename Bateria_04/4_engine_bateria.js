@@ -8,73 +8,73 @@ const perguntas = [
 
     {
         pergunta:
-        "Qual é o planeta conhecido como Planeta Vermelho?",
+        "Como se chama as perdas humanas, materiais ou ambientais.",
 
         respostas:
-        ["marte"]
+        ["danos"]
     },
 
 
     {
         pergunta:
-        "Quantos lados possui um triângulo?",
+        "Qual é o nome do evento que acontece quando um evento adverso causa grandes danos às pessoas, ao ambiente e aos bens, ultrapassando a capacidade da comunidade de lidar com a situação.",
 
         respostas:
-        ["3", "três"]
+        ["desastre"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior oceano da Terra?",
+        "Qual é o numero da defesa civil?",
 
         respostas:
-        ["pacifico", "pacífico"]
+        ["199"]
     },
 
 
     {
         pergunta:
-        "Quanto é 5 × 6?",
+        "Qual é o significado do R: acontece quando um evento adverso causa grandes danos às pessoas, ao ambiente e aos bens, ultrapassando a capacidade da comunidade de lidar com a situação.",
 
         respostas:
-        ["30", "trinta"]
+        ["repensar"]
     },
 
 
     {
         pergunta:
-        "Qual é o satélite natural da Terra?",
+        "Os resíduos orgânicos podem ser colocados em composteiras e transformados em...",
 
         respostas:
-        ["lua"]
+        ["adubo"]
     },
 
 
     {
         pergunta:
-        "Quantos dias aproximadamente possui um ano?",
+        "COmo se chama a solução baseada na natureza que conectam áreas de floresta, permitindo a circulação dos animais e contribuindo para a biodiversidade.",
 
         respostas:
-        ["365", "trezentos e sessenta e cinco"]
+        ["corredores ecológicos"]
     },
 
 
     {
         pergunta:
-        "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+        "Quem tem como principal função realizar resgates e socorros imediatos",
 
         respostas:
-        ["fotossintese", "fotossíntese"]
+        ["bombeiros"]
     },
 
 
     {
         pergunta:
-        "Qual é o resultado de 100 ÷ 10?",
+        "Qual é a cigla do Programa de Defesa Civil na Escola?",
 
         respostas:
-        ["10", "dez"]
+        ["pdce"]
     },
 
 

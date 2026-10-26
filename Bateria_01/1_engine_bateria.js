@@ -8,91 +8,91 @@ const perguntas = [
 
     {
         pergunta:
-        "Qual é o planeta conhecido como Planeta Vermelho?",
+        "O que representa tranquilidade, equilibrio e serenidade?",
 
         respostas:
-        ["marte"]
+        ["azul"]
     },
 
 
     {
         pergunta:
-        "Quantos lados possui um triângulo?",
+        "Qual é o numero dos bombeiros?",
 
         respostas:
-        ["3", "três"]
+        ["193"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior oceano da Terra?",
+        "O que representa solidariedade, auxílio e calor humano.",
 
         respostas:
-        ["pacifico", "pacífico"]
+        ["laranja"]
     },
 
 
     {
         pergunta:
-        "Quanto é 5 × 6?",
+        "Qual animal representa a defesa civil ?",
 
         respostas:
-        ["30", "trinta"]
+        ["cachorro"]
     },
 
 
     {
         pergunta:
-        "Qual é o satélite natural da Terra?",
+        "Em que ano foi a criação da Política Nacional de Proteção e Defesa Civil.",
 
         respostas:
-        ["lua"]
+        ["2012"]
     },
 
 
     {
         pergunta:
-        "Quantos dias aproximadamente possui um ano?",
+        "Qual o nome que damos a tentativa de diminuir um risco que já existe.",
 
         respostas:
-        ["365", "trezentos e sessenta e cinco"]
+        ["mitigação"]
     },
 
 
     {
         pergunta:
-        "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+        "O que é o acontecimento inesperado e não planejado que causa danos.",
 
         respostas:
-        ["fotossintese", "fotossíntese"]
+        ["acidente"]
     },
 
 
     {
         pergunta:
-        "Qual é o resultado de 100 ÷ 10?",
+        "Qual é o nome do período prolongado com pouca ou nenhuma chuva.",
 
         respostas:
-        ["10", "dez"]
+        ["estiagem"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior continente do planeta?",
+        "A pessoa que precisou deixar sua casa, mas pode não precisar de abrigo, pois pode ficar na casa de familiares ou amigos, por exemplo",
 
         respostas:
-        ["asia", "ásia"]
+        ["desalojado"]
     },
 
 
     {
         pergunta:
-        "Quantos minutos existem em uma hora?",
+        "As perdas relacionadas principalmente ao valor econômico tem o nome de.",
 
         respostas:
-        ["60", "sessenta"]
+        ["prejuizo"]
     }
 
 ];

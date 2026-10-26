@@ -8,91 +8,91 @@ const perguntas = [
 
     {
         pergunta:
-        "Qual é o planeta conhecido como Planeta Vermelho?",
+        "Como se da o nome das alterações na temperatura e na distribuição das chuvas do planeta",
 
         respostas:
-        ["marte"]
+        ["mudancas climaticas"]
     },
 
 
     {
         pergunta:
-        "Quantos lados possui um triângulo?",
+        "O que ocorre quando as águas do Oceano Pacífico ficam mais frias que o normal",
 
         respostas:
-        ["3", "três"]
+        ["la nina"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior oceano da Terra?",
+        "O que ocorre quando as águas do Oceano Pacífico ficam mais quentes que o normal",
 
         respostas:
-        ["pacifico", "pacífico"]
+        ["el nino"]
     },
 
 
     {
         pergunta:
-        "Quanto é 5 × 6?",
+        "é um fenômeno natural e fundamental para a vida na Terra. Sem ele, a temperatura média do planeta seria muito mais baixa.",
 
         respostas:
-        ["30", "trinta"]
+        ["efeito estufa"]
     },
 
 
     {
         pergunta:
-        "Qual é o satélite natural da Terra?",
+        "O que é sistemas que armazenam água da chuva para atividades como irrigação e limpeza.",
 
         respostas:
-        ["lua"]
+        ["sisterna"]
     },
 
 
     {
         pergunta:
-        "Quantos dias aproximadamente possui um ano?",
+        "materiais, substâncias ou objetos que são descartados como resultado da natureza ou das atividades humanas e chamado de",
 
         respostas:
-        ["365", "trezentos e sessenta e cinco"]
+        ["residuo"]
     },
 
 
     {
         pergunta:
-        "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+        "Quem são encaminhados para aterros sanitários.",
 
         respostas:
-        ["fotossintese", "fotossíntese"]
+        ["rejeitos"]
     },
 
 
     {
         pergunta:
-        "Qual é o resultado de 100 ÷ 10?",
+        "permite que determinados produtos, depois de utilizados, retornem ao setor empresarial para serem reinseridos no processo produtivo ou receberem uma destinação ambiental adequada. O consumidor deve entregar esses resíduos nos locais indicados pelos sistemas de...",
 
         respostas:
-        ["10", "dez"]
+        ["logistica reversa"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior continente do planeta?",
+        "Qual R significa: Dar uma nova utilidade para objetos que iriam para o lixo, evitando novas compras",
 
         respostas:
-        ["asia", "ásia"]
+        ["reutilizar"]
     },
 
 
     {
         pergunta:
-        "Quantos minutos existem em uma hora?",
+        "Qual o nome da ação de doar tempo, trabalho e talento para ajudar outras pessoas ou a comunidade, sem receber pagamento por isso.?",
 
         respostas:
-        ["60", "sessenta"]
+        ["voluntariado"]
     }
 
 ];

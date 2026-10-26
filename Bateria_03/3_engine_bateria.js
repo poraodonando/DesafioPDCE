@@ -8,91 +8,91 @@ const perguntas = [
 
     {
         pergunta:
-        "Qual é o planeta conhecido como Planeta Vermelho?",
+        "O que reune as ações que ajudam as pessoas a saber como agir durante uma emergência.",
 
         respostas:
-        ["marte"]
+        ["preparacao"]
     },
 
 
     {
         pergunta:
-        "Quantos lados possui um triângulo?",
+        "O que são as simulações computacionais que utilizam equações físicas e dados observados para prever o comportamento da atmosfera e fazer previsões do tempo e do clima.",
 
         respostas:
-        ["3", "três"]
+        ["modelos metereologicos"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior oceano da Terra?",
+        "Qual é o  instrumento utilizado para medir a quantidade de chuva que cai em determinada área.",
 
         respostas:
-        ["pacifico", "pacífico"]
+        ["pluviometro"]
     },
 
 
     {
         pergunta:
-        "Quanto é 5 × 6?",
+        "Durante um desastre, algumas pessoas precisam receber atenção prioritária. a primeira prioridade é: ",
 
         respostas:
-        ["30", "trinta"]
+        ["criancas e adolescentes"]
     },
 
 
     {
         pergunta:
-        "Qual é o satélite natural da Terra?",
+        "Qual é o nome caminho utilizado pelas pessoas para sair de uma edificação em uma situação de emergência",
 
         respostas:
-        ["lua"]
+        ["rota de fuga"]
     },
 
 
     {
         pergunta:
-        "Quantos dias aproximadamente possui um ano?",
+        "Qual é um local seguro previamente definido para onde estudantes, professores e servidores devem se dirigir depois de deixar a escola.",
 
         respostas:
-        ["365", "trezentos e sessenta e cinco"]
+        ["ponto de encontro"]
     },
 
 
     {
         pergunta:
-        "Qual é o nome do processo pelo qual as plantas produzem seu alimento?",
+        "Quem atende os feridos",
 
         respostas:
-        ["fotossintese", "fotossíntese"]
+        ["samu"]
     },
 
 
     {
         pergunta:
-        "Qual é o resultado de 100 ÷ 10?",
+        "Quem coordena as ações e os abrigos.",
 
         respostas:
-        ["10", "dez"]
+        ["defesa civil"]
     },
 
 
     {
         pergunta:
-        "Qual é o maior continente do planeta?",
+        "Qual é o nome do processo contínuo de observar, coletar e analisar dados meteorológicos, hidrológicos e geológicos para identificar possíveis situações de risco",
 
         respostas:
-        ["asia", "ásia"]
+        ["monitoramento"]
     },
 
 
     {
         pergunta:
-        "Quantos minutos existem em uma hora?",
+        "Qual é o nome sistema permite enviar mensagens diretamente para celulares que estejam em áreas com risco de desastres severos ou extremos?",
 
         respostas:
-        ["60", "sessenta"]
+        ["cell broadcast"]
     }
 
 ];
