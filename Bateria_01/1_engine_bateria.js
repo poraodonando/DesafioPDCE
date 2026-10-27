@@ -231,7 +231,12 @@ function verificarResposta() {
                     antes de redirecionar.
                 */
 
-               
+                setTimeout(function() {
+
+                    window.location.href =
+                        siteFinal;
+
+                }, 3000);
 
             }, 700);
 
