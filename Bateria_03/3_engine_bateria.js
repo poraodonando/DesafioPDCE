@@ -112,7 +112,7 @@ let perguntaAtual = 0;
 */
 
 const siteFinal =
-    "Detona/detona.html";
+    "quadra_escola.html";
 
 
 /* ==========================================
