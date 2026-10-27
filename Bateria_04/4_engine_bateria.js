@@ -80,19 +80,19 @@ const perguntas = [
 
     {
         pergunta:
-        "Qual é o maior continente do planeta?",
+        "Qual é a sigla do Plano Familiar de Emergência ?",
 
         respostas:
-        ["asia", "ásia"]
+        ["plafe"]
     },
 
 
     {
         pergunta:
-        "Quantos minutos existem em uma hora?",
+        "O que é uma atividade prática que procura reproduzir uma situação real, mas em um ambiente controlado. Ele serve para treinar, avaliar e preparar pessoas e equipes para agir diante de diferentes situações.",
 
         respostas:
-        ["60", "sessenta"]
+        ["simulado"]
     }
 
 ];
