@@ -112,7 +112,7 @@ let perguntaAtual = 0;
 */
 
 const siteFinal =
-    "https://www.exemplo.com";
+    "cantina.html";
 
 
 /* ==========================================
