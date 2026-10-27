@@ -32,11 +32,12 @@ function countDown(){
 
         if(state.values.result<=30){
             alert("Tá muito nervoso")
-           // alert("Vai reprovar!!! kkkkkk");
+           
         }
 
         if(state.values.result >30){
             alert("Falta pouco para terminar");
+            alert("Pegue o ultimo desafio com o professor!");
             
             
         }

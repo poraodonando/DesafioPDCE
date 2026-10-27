@@ -236,7 +236,7 @@ function verificarResposta() {
                     window.location.href =
                         siteFinal;
 
-                }, 3000);
+                }, 10000);
 
             }, 700);
 
